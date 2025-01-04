@@ -1,0 +1,11 @@
+﻿
+# Async Programming #
+
+Async allows programs to perform long-running operations (e.g., network requests, file reads/writes) without blocking other work.
+
+Methods with async/await perform "lazy execution". Tasks are used to handle non-blocking operations.
+
+Parallel.ForEach allows you to process elements in an array in parallel.
+
+
+
