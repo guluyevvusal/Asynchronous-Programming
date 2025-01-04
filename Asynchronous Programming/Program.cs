@@ -14,12 +14,14 @@ using System.Threading.Tasks;
     //    await MainAsync();
     //}
 
+
     //public static async Task MainAsync()
     //{
     //    string url = "https://jsonplaceholder.typicode.com/posts/1";
     //    string data = await FetchDataAsync(url);
     //    Console.WriteLine(data);
     //}
+
 
 
     //public static async Task<string> FetchDataAsync(string url)
